@@ -44,8 +44,6 @@
   ```
   </div>
 
-
-
   <div align="center" display="inline">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,python,solidity,go" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,jest" />
@@ -75,10 +73,9 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
   </div>
 
-  
   <hr></hr>
 
-  <h1>GitHub stats</h1>
+  <h1>Stats</h1>
 
   <p align="center">
     <a href="https://github.com/0xp3gasus?tab=repositories">
@@ -95,6 +92,6 @@
     </a>
   </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xp3gasus&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=0xp3gasus&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
