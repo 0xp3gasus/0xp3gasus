@@ -27,7 +27,7 @@
         libraries: ["XChainJS", "LedgerHQ", "bitcoinjs", "ethers", "@solana/web3.js"],
         protocols: ["THORChain", "MAYAProtocol", "Chainflip", "Rango", "Unstoppable domains"],
         fs: ["ipfs"]
-      }
+      },
       devops: ["Docker", "CI/CD", "Git", "Git flow", "GitHub Actions"],
       cloudServices: {
         aws: ["IAM", "EC2", "RDS", "ECS", "Cloudfront", "S3", "Lambda"],
