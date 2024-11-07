@@ -77,19 +77,16 @@
 
   <h1>Stats</h1>
 
-  <p align="center">
+  <p align="center" display="inline">
     <a href="https://github.com/0xp3gasus?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=0xp3gasus&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="0xp3gasus github-readme-stats"/>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=0xp3gasus&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="40%" alt="0xp3gasus github-readme-stats"/>
     </a>
-    <a href="https://github.com/0xp3gasus?tab=stars">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=0xp3gasus&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="0xp3gasus github-readme-streak-stats"/>
-    </a>
-  </p>
-
-  <p align="center">
     <a href="https://wakatime.com/@0xp3gasus">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xp3gasus&theme=github&hide_border=true&hide_title=false&area=true&custom_title=Contributions" width="95%" alt="activity graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xp3gasus&theme=github&hide_border=true&hide_title=false&area=true&custom_title=Contributions" width="48%" alt="activity graph">
     </a>
+  
+  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=0xp3gasus)](https://git.io/streak-stats) -->
+
   </p>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=0xp3gasus&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
